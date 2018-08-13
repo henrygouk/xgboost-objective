@@ -1,3 +1,6 @@
 [submodule "xgboost"]
 	path = xgboost
 	url = http://github.com/dmlc/xgboost.git
+[submodule "ml_dataset_loader"]
+	path = ml_dataset_loader
+	url = https://github.com/RAMitchell/ml_dataset_loader.git
